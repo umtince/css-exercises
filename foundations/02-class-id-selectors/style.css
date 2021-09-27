@@ -1,0 +1,19 @@
+.aaa{
+    background-color: rgba(255, 111, 147, 0.829);
+    font-family: Verdana, sans-serif;
+}
+
+#y{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.bbb{
+    font-size: 24px;
+}
+
+#x{
+    background-color: hsl(120,90%,70%);
+    font-size: 24px;
+    font-weight: bold;
+}
